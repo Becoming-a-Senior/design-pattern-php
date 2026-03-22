@@ -2,7 +2,6 @@
 
 ### Before: One class handling multiple responsibilities
 
-
 ```php
 <?php
 

@@ -7,16 +7,18 @@
 ### Example 1: Authentication
 
 
---8<-- "SOLID/SingleResponsibilityPrinciple/Authentication.md"
+--8<-- "SOLID/SingleResponsibilityPrinciple/BeforeAuthentication.md"
 --8<-- "SOLID/SingleResponsibilityPrinciple/AfterAuthentication.md"
 
 ---
 
 ### Example 2: Payment Processing
 
---8<-- "SOLID/SingleResponsibilityPrinciple/PaymentProcessing.md"
+--8<-- "SOLID/SingleResponsibilityPrinciple/BeforePaymentProcessing.md"
+--8<-- "SOLID/SingleResponsibilityPrinciple/AfterPaymentProcessing.md"
 ---
 
 ### Example 3: User Registration
 
---8<-- "SOLID/SingleResponsibilityPrinciple/UserRegistration.md"
+--8<-- "SOLID/SingleResponsibilityPrinciple/BeforeUserRegistration.md"
+--8<-- "SOLID/SingleResponsibilityPrinciple/AfterUserRegistration.md"

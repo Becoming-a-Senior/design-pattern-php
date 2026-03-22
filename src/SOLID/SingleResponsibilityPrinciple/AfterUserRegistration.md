@@ -1,6 +1,5 @@
 ### After: Applying the Single Responsibility Principle
 
-
 ```php
 <?php
 
